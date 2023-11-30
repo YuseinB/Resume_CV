@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 17px;
+    font-family: 'Arial', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#downloadBtn{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 0.5em;
+
+}
+
+.hr {
+    margin: 0 1em;
+    background-color: #ffffff;
+    height: 0.2em;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    width: 212mm;
+    height: 296mm;
+    margin: 0 auto;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 0.5em;
+
+}
+
+.block1,
+.block2 {
+    flex-grow: 1;
+}
+
+.block1 {
+    width: 70%;
+    float: left;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+.heading {
+    padding: 1em;
+}
+
+.header {
+    display: flex;
+    padding: 2em;
+    border-bottom: rgba(96, 99, 102, 0.100) 1px solid;
+}
+
+.block2 {
+    width: 30%;
+    float: left;
+    color: #ffffff;
+    background-color: #082a4d;
+}
+
+span {
+    color: gray;
+    text-transform: uppercase;
+    float: inline-end;
+    margin-top: 0.3em;
+    font-size: 0.7em;
+}
+
+.body p {
+    margin: 2.5em;
+    font-size: 0.8em;
+}
+
+.body h5 {
+    margin-left: 2em;
+    margin-top: 2em;
+
+}
+
+.block2 p {
+    margin: 0.7em 1em;
+    font-size: 0.8em;
+}
+
+
+
+.block2 h5 {
+    margin-top: 2em;
+    margin-left: 0.5em;
+}
+
+
+#face {
+    block-size: 5em;
+    border-radius: 50%;
+    background-color: #082a4d;
+}
