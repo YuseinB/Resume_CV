@@ -142,7 +142,7 @@
     <script>
         document.getElementById('downloadBtn').addEventListener('click', function() {
             document.getElementById('resume').style.borderRadius = '0';
-            var element = document.getElementById('resume');// Заменете 'yourContainerId' с реалния ID на вашия контейнер
+            var element = document.getElementById('resume');
             html2pdf(element);
         });
 
