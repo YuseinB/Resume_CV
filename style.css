@@ -6,6 +6,8 @@
 body {
     font-size: 17px;
     font-family: 'Arial', sans-serif;
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
 
 a {
@@ -18,7 +20,6 @@ a {
     top: 10px;
     left: 10px;
     padding: 0.5em;
-
 }
 
 .hr {
@@ -40,7 +41,6 @@ a:hover {
     box-sizing: border-box;
     overflow: hidden;
     border-radius: 0.5em;
-
 }
 
 .block1,
@@ -99,13 +99,10 @@ span {
     font-size: 0.8em;
 }
 
-
-
 .block2 h5 {
     margin-top: 2em;
     margin-left: 0.5em;
 }
-
 
 #face {
     block-size: 5em;
