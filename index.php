@@ -8,8 +8,6 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="Image/canvas2.png" type="image/x-icon">
     <script src="https://rawgit.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js"></script>
-
-
 </head>
 
 <body>
@@ -36,14 +34,14 @@
                     Proficient in setting up and managing Cisco, Linux and MikroTik servers.
                     Implemented surveillance systems. I enjoy finding innovative ways to solve complex
                     technical problems and optimize performance and efficiency.
-
                 </p>
                 <p>Furthermore, I am a proud parent of two wonderful children,
                     one of whom has special needs. My role as a parent to a child with
                     Autism enriches my perspective and motivates me to work remotely,
                     allowing me to balance my professional and personal responsibilities.
                     I am always eager to learn new skills, share insights,
-                    and collaborate with like-minded individuals who value excellence and creativity.</p>
+                    and collaborate with like-minded individuals who value excellence and creativity.
+                </p>
 
                 <h5>Courses</h5>
                 <p>Python, OOP, Web, Framework at Sotware University - SoftUni
@@ -147,9 +145,5 @@
         });
 
     </script>
-
-
-
-
 
 </html>
