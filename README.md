@@ -1,6 +1,9 @@
 # Resume_CV
 Make My Site CV Resume
 <p>This project represents your, in this case, my resume, hosted wherever you prefer. When clicking the download button, it can be converted into a PDF document and downloaded.</p>
+
+<p>For the conversion, we use html2pdf, thanks! You can explore the documentation here: <a href="https://ekoopmans.github.io/html2pdf.js/">https://ekoopmans.github.io/html2pdf.js/</a></p>
+
 <p>If you add a suitable image with a transparent background to the image folder, it can be used both as a favicon and for other purposes.</p>
 
 <p>I look forward to your feedback on this little thing. :)</p>
