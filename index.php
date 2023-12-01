@@ -85,7 +85,7 @@
             <p>Ribnovo, 2967</p>
             <p>Bulgaria</p>
             <p>+359 89 757 5927</p>
-            <p>ribanec@gmail.com</p>
+            <p>ribanec(at)gmail.com</p>
 
             <h5>Skills</h5>
             <p>Python</p>
@@ -142,7 +142,7 @@
     <script>
         document.getElementById('downloadBtn').addEventListener('click', function() {
             document.getElementById('resume').style.borderRadius = '0';
-            var element = document.getElementById('resume');
+            let element = document.getElementById('resume');
             html2pdf(element);
         });
 
