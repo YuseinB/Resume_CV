@@ -7,7 +7,7 @@
     <title>Yusein Boshnakov - Resume</title>
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="Image/canvas2.png" type="image/x-icon">
-    <script src="https://rawgit.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 </head>
 
 <body>
