@@ -18,6 +18,18 @@
                 <div class="heading">
                     <h1>Yusein Boshnakov</h1>
                     <h6>DEVELOPER</h6>
+                    <span class="aws"></span>
+                    <span class="bootstrap"></span>
+                    <span class="css"></span>
+                    <span class="docker"></span>
+                    <span class="git"></span>
+                    <span class="html5"></span>
+                    <span class="js"></span>
+                    <span class="linux"></span>
+                    <span class="network"></span>
+                    <span class="php"></span>
+                    <span class="python"></span>
+                    <span class="windows"></span>
                 </div>
             </div>
 
@@ -26,22 +38,22 @@
                 <p>Entrepreneur with a passion for technology and networking.
                     Founded and managed an ISP (Internet Service Provider)
                     business for over 15 years. Proficient in network setup and maintenance,
-                    including cable networks and wireless solutions (WLAN, PTP, PTMP)
-                    Skilled in Linux and Windows operating systems.
-                    Experience with various programming languages and technologies: Python, PHP, CSS, HTML, JS, GIT, Docker , AWS.
+                    including cable networks and wireless solutions <b>WLAN, PTP, PTMP</b>
+                    Skilled in <b>Linux</b> and <b>Windows</b> operating systems.
+                    Experience with various programming languages and technologies: <b>Python, PHP, CSS, HTML, JS, GIT, Docker , AWS</b>.
                     Extensive knowledge of networking protocols:
-                    LAN, VLAN, IP, DNS, GPON, SSH, Telnet, FTP.
-                    Proficient in setting up and managing Cisco, Linux and MikroTik servers.
+                    <b>LAN, VLAN, IP, DNS, GPON, SSH, Telnet, FTP</b>.
+                    Proficient in setting up and managing <b>Cisco, Linux and MikroTik</b> servers.
                     Implemented surveillance systems. I enjoy finding innovative ways to solve complex
                     technical problems and optimize performance and efficiency.
+
                 </p>
                 <p>Furthermore, I am a proud parent of two wonderful children,
                     one of whom has special needs. My role as a parent to a child with
                     Autism enriches my perspective and motivates me to work remotely,
                     allowing me to balance my professional and personal responsibilities.
                     I am always eager to learn new skills, share insights,
-                    and collaborate with like-minded individuals who value excellence and creativity.
-                </p>
+                    and collaborate with like-minded individuals who value excellence and creativity.</p>
 
                 <h5>Courses</h5>
                 <p>Python, OOP, Web, Framework at Sotware University - SoftUni
@@ -87,9 +99,9 @@
 
             <h5>Skills</h5>
             <p>Python</p>
-            <div class="hr" style="width: 80%;"></div>
+            <dline><div class="hr" style="width: 80%;"></div></dline>
             <p>JavaScript</p>
-            <div class="hr" style="width: 60%;"></div>
+            <dline><div class="hr" style="width: 60%;"></div></dline>
             <p>HTML & CSS</p>
             <div class="hr" style="width: 80%;"></div>
             <p>PHP (Scripting Language)</p>
@@ -111,6 +123,9 @@
             <a href="https://github.com/YuseinB">
                 <p>GitHub</p>
             </a>
+            <a href="http://cv.bdss.eu">
+                <p>This CV</p>
+            </a>
             <p>Certificate:</p>
             <a href="https://softuni.bg/certificates/details/182446/e36caab1">
                 <p>Python Web Framework</p>
@@ -121,6 +136,7 @@
             <a href="https://softuni.bg/certificates/details/191076/c0aef75c">
                 <p>HTML & CSS </p>
             </a>
+            
 
             <h5>Languages</h5>
             <p>Bulgarian</p>
@@ -140,10 +156,13 @@
     <script>
         document.getElementById('downloadBtn').addEventListener('click', function() {
             document.getElementById('resume').style.borderRadius = '0';
-            let element = document.getElementById('resume');
+            var element = document.getElementById('resume');
             html2pdf(element);
         });
-
     </script>
+
+
+
+
 
 </html>

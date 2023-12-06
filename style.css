@@ -15,11 +15,18 @@ a {
     color: #ffffff;
 }
 
-#downloadBtn{
+#downloadBtn {
     position: absolute;
     top: 10px;
     left: 10px;
     padding: 0.5em;
+
+}
+
+dline {
+    background-color: #ffffff1e;
+    height: 0.2em;
+    width: 80%;
 }
 
 .hr {
@@ -41,6 +48,7 @@ a:hover {
     box-sizing: border-box;
     overflow: hidden;
     border-radius: 0.5em;
+
 }
 
 .block1,
@@ -108,4 +116,88 @@ span {
     block-size: 5em;
     border-radius: 50%;
     background-color: #082a4d;
+}
+
+.aws {
+    background-image: url(/Image/aws.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.bootstrap {
+    background-image: url(/Image/bootstrap.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.css {
+    background-image: url(/Image/css3.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.docker {
+    background-image: url(/Image/docker.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.git {
+    background-image: url(/Image/git-alt.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.html5 {
+    background-image: url(/Image/html5.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.js {
+    background-image: url(/Image/js.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.linux {
+    background-image: url(/Image/linux.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.network {
+    background-image: url(/Image/network-wired-solid.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.php {
+    background-image: url(/Image/php.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.python {
+    background-image: url(/Image/python.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
+}
+
+.windows {
+    background-image: url(/Image/windows.svg);
+    width: 2em;
+    height: 2em;
+    background-repeat: no-repeat;
 }
