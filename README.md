@@ -33,7 +33,7 @@ This project represents a personal resume (CV), which can be hosted anywhere. Wi
 ## 📷 Preview  
 
 - **Sample Screenshot**  
-  ![screenshot](https://github.com/YuseinB/Resume_CV/assets/114071452/ffb1a021-0400-477a-8596-8f04180dfae7)  
+  ![screenshot](https://github.com/YuseinB/Resume_CV/blob/main/resume.png)  
 
 - **Favicon**  
   ![favicon](https://github.com/YuseinB/Resume_CV/assets/114071452/b2a2de93-9280-4af1-85c6-5f1dafd9ce6f)  
@@ -83,7 +83,7 @@ I’d love to hear any feedback, suggestions, or ideas for improvement!
 ## 📷 Преглед  
 
 - **Примерно изображение**  
-  ![screenshot](https://github.com/YuseinB/Resume_CV/assets/114071452/ffb1a021-0400-477a-8596-8f04180dfae7)  
+  ![screenshot](resume.png)  
 
 - **Favicon**  
   ![favicon](https://github.com/YuseinB/Resume_CV/assets/114071452/b2a2de93-9280-4af1-85c6-5f1dafd9ce6f)  
